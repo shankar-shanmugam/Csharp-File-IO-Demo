@@ -11,7 +11,17 @@ namespace FileIo_Demo
             //  CopyFile();
             //  DeleteFile();
 
-            DirectoryAccessDemo();
+            // DirectoryAccessDemo();
+
+            //  FileStreamDemo.FileStreamExample();
+            // FileStreamDemo.FileStreamRead();
+
+            //  FileStreamDemo.StreamWriterDemo();
+            //  FileStreamDemo.StreamReadDemo();
+
+          //  FileStreamDemo.BinaryWriterDemo();
+
+            FileStreamDemo.BinaryReaderDemo();
         }
 
         public static void ReadLinesFromFile()
